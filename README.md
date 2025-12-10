@@ -75,7 +75,7 @@ I build end-to-end systems that make data **actionable**, **explainable**, and *
 
 ---
 
-### 🔹 **GenAI Q&A Platform (Syracuse University)**
+### 🔹 **GenAI Q&A Platform**
 *LLM-based knowledge system • GPT-3.5, LangChain, Pinecone, AWS*
 
 - Built RAG-powered Q&A assistant for 10 programs  
@@ -86,7 +86,7 @@ I build end-to-end systems that make data **actionable**, **explainable**, and *
 
 ---
 
-### 🔹 **Fraud Detection Models (PwC)**
+### 🔹 **Fraud Detection Models**
 *XGBoost, Isolation Forest, drift monitoring, Azure*
 
 - Processed **5M+ transactions**  
