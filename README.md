@@ -73,8 +73,6 @@ I build end-to-end systems that make data **actionable**, **explainable**, and *
 - Achieved **90% SQL accuracy** across multi-table datasets  
 - Enables non-technical teams to derive insights **10× faster**
 
-👉 *Repo coming soon*  
-
 ---
 
 ### 🔹 **GenAI Q&A Platform (Syracuse University)**
@@ -85,15 +83,6 @@ I build end-to-end systems that make data **actionable**, **explainable**, and *
 - Reduced faculty workload by **35%**  
 - Designed full evaluation pipeline for answer quality & hallucinations  
 
----
-
-### 🔹 **Student Retention Analytics & Causal Experiments**
-*Predictive modeling + A/B testing • Python, SQL, Power BI, AWS*
-
-- Modeled at-risk students → **85% classification accuracy**  
-- Designed multivariate A/B tests → boosted response rates **20%**  
-- Automated ETL + dashboards → reduced reporting cycle from **2 weeks → 2 days**  
-- Increased fall–spring retention by **10%**
 
 ---
 
@@ -136,7 +125,3 @@ I build end-to-end systems that make data **actionable**, **explainable**, and *
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathyusha1231&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github
