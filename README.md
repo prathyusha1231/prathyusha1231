@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-I’m a **Data Scientist & ML Engineer** with hands-on experience designing intelligent systems — from  
+I’m a **Data Scientist & ML Engineer** with hands-on experience designing intelligent systems, from  
 **predictive models and causal A/B testing** to **GenAI-powered Q&A platforms**, **LLM-driven analytics**,  
 and **automated ETL pipelines** across academic, consulting, and enterprise environments.  
 
@@ -25,15 +25,6 @@ My work focuses on:
 
 I build end-to-end systems that make data **actionable**, **explainable**, and **impactful** for users.
 
----
-
-## 🚀 What I’m Working On
-
-- **Live Insights (LLM → SQL Engine):** Natural-language analytics agent with auto-charting  
-- **Personal Data Visualization Gallery:** Insights across public datasets  
-- **Clustering & Dimensionality Reduction Study:** PCA, t-SNE, UMAP × KMeans, DBSCAN  
-- **Portfolio Website:** Neural-network-themed homepage representing my career trajectory  
-- **GenAI Evaluation Framework:** Prompt testing + causal A/B for model comparison
 
 ---
 
@@ -145,9 +136,6 @@ I build end-to-end systems that make data **actionable**, **explainable**, and *
 
 ---
 
-## 📈 GitHub Stats
-
-*(Optional — include if you want the stats visuals)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathyusha1231&show_icons=true&theme=tokyonight" height="160" />
