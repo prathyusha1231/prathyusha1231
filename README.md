@@ -5,12 +5,11 @@ I build practical, end-to-end machine learning systems that turn messy real-worl
 
 My work spans fraud detection at scale, LLM-powered analytics tools, forecasting systems, and healthcare signal processing research. I enjoy building ML that people actually use, not just notebooks.
 
-Tech Stack
-• Languages: Python, SQL
-• ML/AI: PyTorch, scikit-learn, XGBoost, Transformers, LangChain, RAG
-• Data & Pipelines: Pandas, Airflow, ETL workflows, feature engineering
-• Systems/Deployment: FastAPI, Docker, REST APIs, model serving
-• Cloud: AWS (S3, EC2, Lambda), Azure
+
+Tech Stack  
+Languages: Python, SQL | ML/AI: PyTorch, scikit-learn, XGBoost, Transformers, LangChain, RAG | Pipelines: Airflow, ETL | Systems: FastAPI, Docker | Cloud: AWS, Azure
+
+
 
 Selected Work
 • Fraud detection across 5M+ transactions with drift monitoring
