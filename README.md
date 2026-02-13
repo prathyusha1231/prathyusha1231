@@ -1,14 +1,21 @@
-## Prathyusha Murala
+## Hi, I’m Prathyusha 👋
 Machine Learning Engineer | Production ML | NLP & Signal Processing
 
-I build end-to-end machine learning systems that move from raw data, modeling, deployment, monitoring.
+I build practical, end-to-end machine learning systems that turn messy real-world data into reliable products, from data pipelines and modeling to deployment and monitoring.
 
-Previously built fraud detection, NLP/LLM, and automation pipelines at scale across PwC and enterprise environments.
+My work spans fraud detection at scale, LLM-powered analytics tools, forecasting systems, and healthcare signal processing research. I enjoy building ML that people actually use, not just notebooks.
 
-Tech: Python • SQL • PyTorch • scikit-learn • Airflow • AWS • FastAPI • Docker
+Tech Stack
+• Languages: Python, SQL
+• ML/AI: PyTorch, scikit-learn, XGBoost, Transformers, LangChain, RAG
+• Data & Pipelines: Pandas, Airflow, ETL workflows, feature engineering
+• Systems/Deployment: FastAPI, Docker, REST APIs, model serving
+• Cloud: AWS (S3, EC2, Lambda), Azure
 
-Selected Work:
-• Citi Bike demand forecasting pipeline
-• Fraud detection across 5M+ transactions
-• LLM-powered analytics (Text to SQL to Insights)
-• BERT-based compliance automation
+Selected Work
+• Fraud detection across 5M+ transactions with drift monitoring
+• LLM system for natural language to SQL analytics
+• BERT-based compliance automation with 60% reduction in review time
+• EEG emotion classification, Springer 2023 publication
+
+Portfolio: https://datawithprats.com/ | LinkedIn: https://www.linkedin.com/in/prathyushamurala/ | Email: pmurala.work@gmail.com
